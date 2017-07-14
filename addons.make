@@ -1,0 +1,4 @@
+ofxAnimatable
+ofxFlowTools
+ofxGui
+ofxMathMesh
